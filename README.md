@@ -30,13 +30,20 @@ That is it for the install. The tool launches the game through SFSE for you.
 
 ## Play together
 
+Both players run the game through the tool, and **both have to be in game with a save loaded** (not sitting in the main menu) for the connection to work.
+
 1. On the **Co-op** page, type your name.
-2. One of you clicks **Host** and shares the code. The other clicks **Join** and enters that code.
-3. Starfield launches for both of you and you are in the same game.
+2. One of you clicks **Host** and shares the code that appears. The other clicks **Join** and enters that code. Starfield launches for both of you.
+3. Each of you loads a savegame (see the disclaimer for which one to use). You both need to be loaded in and actually playing, not in a menu, or the link will not come up.
+4. Once the connection is made, the host's current game is sent over to the joiner and loaded, so you both end up in the same place in the same world.
 
-Tip: both players should load the same kind of fresh savegame (see the disclaimer). Press **F8** in game to regroup at the host after a fast travel.
+**The save sync in step 4 can take a while, so please be patient.** A Starfield save is several megabytes. It has to transfer to the joiner and then load, and during that time it can look like nothing is happening for a few seconds. That is expected. It is not frozen and it is not a crash, just let it finish.
 
-For a private game without the lobby, use **Play directly**: the host shares an IP and port, the other joins by IP (over the internet you also forward that port on your router).
+Even though the joiner loads the host's game, your own character is restored right after, so both of you keep your own level, skills, perks and inventory.
+
+Tip: press **F8** in game to regroup at the host after a fast travel, or any time you drift apart.
+
+For a private game without the lobby, use **Play directly**: the host shares an IP and port, and the other joins by IP (over the internet you also forward that port on your router).
 
 ## Good to know
 
