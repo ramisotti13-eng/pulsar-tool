@@ -20,15 +20,13 @@ Co-op multiplayer for Starfield. Play through the game together with a friend.
 
 ## Install
 
-You do not copy any mod files by hand. The tool installs the mod for you with one click. The only part you set up yourself is SFSE.
+The mod itself is one click. It is bundled inside the tool, so you never download mod files separately and you never copy anything by hand. The only thing you set up yourself is SFSE.
 
-1. Install **SFSE** from the link above: drop its files into your Starfield folder, next to the game exe.
-2. Download the latest **PULSAR** release from the [Releases page](https://github.com/ramisotti13-eng/pulsar-tool/releases).
-3. Extract the zip anywhere you like, but **not** inside the Starfield folder.
-4. Run **Pulsar.exe**.
-5. Open the **Setup** page and click **Install mod**. That one click copies the whole mod into Starfield for you. Then click **Fix all** so the required game settings are set.
+1. Install **SFSE**: drop its files into your Starfield folder, next to the game exe.
+2. Start **PULSAR** (Pulsar.exe). If you do not have it yet, grab it from the [Releases](https://github.com/ramisotti13-eng/pulsar-tool/releases) on this page, unzip it anywhere except the Starfield folder, and run it.
+3. Open the **Setup** page and click **Install mod**. That one click copies the whole mod into Starfield. Then click **Fix all** so the required game settings are set.
 
-That is it. The tool launches the game through SFSE for you, and when a new version is out it can update the mod with one click as well (Updates page, or the banner at the top). Close Starfield before installing or updating.
+New versions install the same way, with one click, from the **Updates** page or the banner at the top of the tool. Close Starfield before installing or updating.
 
 ## Play together
 
