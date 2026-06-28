@@ -38,6 +38,19 @@ Tip: both players should load the same kind of fresh savegame (see the disclaime
 
 For a private game without the lobby, use **Play directly**: the host shares an IP and port, the other joins by IP (over the internet you also forward that port on your router).
 
+## Good to know
+
+A few things that look like problems but usually are not:
+
+* **A character vanishing on a planet is normally not a disconnect.** It is a cell transition: the engine has to reload that character on the other side. Give it a few seconds, or move closer, and it comes back.
+* **Lost each other or out of sync? Press F8.** That pulls the client back to the host. It is the manual regroup and it fixes most "where did they go" moments.
+* **On a planet surface each of you can fast travel on your own.** The host fast traveling does not drag the client along on purpose. Use F8 afterwards to regroup at the host.
+* **The other player is shown as a copy of their character.** A short flicker of that copy when changing cells is cosmetic and known. It does not mean something broke.
+* **The first time someone enters a vehicle, the game shows a short tutorial popup.** That popup is local to whoever entered, so the other player will not see it. That is normal.
+* **Both of you should load the same fresh savegame** before hosting or joining (see the disclaimer).
+* **Close Starfield before you install or update the mod** from the tool.
+* **If the tool shows offline, use Reconnect** on the Co-op page. A relay can hiccup for a moment.
+
 ## Reporting a bug
 
 1. In the tool, open the **Bug report** page and create a report. It collects the logs and basic diagnostics into a file.
