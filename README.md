@@ -81,4 +81,14 @@ I have not tested PULSAR together with other mods yet. Real compatibility testin
 * **Encrypted connection.** All co-op traffic is encrypted, and relays mean you usually do not need to forward a port.
 * **Character backup.** Export and import your character to a file, and reset it from Settings whenever you want.
 
+## Host your own relay (optional, advanced)
+
+You do not need this to play. A relay just passes traffic between two players when a direct connection is hard, and the tool already picks a working one for you automatically.
+
+You might want your own if you want a private relay for your group, or to contribute one to the public list. The relay is open source, and the full setup (Docker or .NET, plus every setting) is here:
+
+https://github.com/ramisotti13-eng/pulsar-relay
+
+A relay only forwards traffic. It never loads your save or touches your character, and because the connection is encrypted it only ever sees encrypted bytes.
+
 Made by ramisotti13. Thanks for testing the alpha and helping get it stable.
