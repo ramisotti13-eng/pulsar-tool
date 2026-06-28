@@ -85,7 +85,7 @@ I have not tested PULSAR together with other mods yet. Real compatibility testin
 
 You do not need this to play. A relay just passes traffic between two players when a direct connection is hard, and the tool already picks a working one for you automatically.
 
-You might want your own if you want a private relay for your group, or to contribute one to the public list. The relay is open source, and the full setup (Docker or .NET, plus every setting) is here:
+You might want your own for a private relay just for your group. And if you would like to support the project, running a public relay is one of the best ways to help. It is especially valuable in a region that does not have one yet, so players near you get a smoother, lower latency connection. A relay you run can be added to the public list so anyone nearby can use it. The relay is open source, and the full setup (Docker or .NET, plus every setting) is here:
 
 https://github.com/ramisotti13-eng/pulsar-relay
 
