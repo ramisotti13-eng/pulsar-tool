@@ -58,6 +58,10 @@ A few things that look like problems but usually are not:
 * **Close Starfield before you install or update the mod** from the tool.
 * **If the tool shows offline, use Reconnect** on the Co-op page. A relay can hiccup for a moment.
 
+## Other mods
+
+I have not tested PULSAR together with other mods yet. Real compatibility testing is a beta thing. It is technically possible to run other mods at the same time, so you are welcome to try your setup and see what works for you. Just expect that during the alpha some combinations may not work or may cause problems. If something breaks, please try again with only PULSAR active before you report it, so we know whether it is PULSAR or a mod clash.
+
 ## Reporting a bug
 
 1. In the tool, open the **Bug report** page and create a report. It collects the logs and basic diagnostics into a file.
